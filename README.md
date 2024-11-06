@@ -1,5 +1,5 @@
-# FIVEM-VRP-ST-WEED
-Weed Farm for FIVEM (GTA RP) (FREE)
+# FIVEM-VRP
+Farm for FIVEM (GTA RP) (FREE)
 
 
 Developed by me, .lua fivem script for vrp 1.0 (VRPEX), in some cases adaptations are necessary.
